@@ -1,2 +1,3 @@
 # rahultest
-test some code
+Created this repo to test new ml algos
+Author: Rahul Singha
